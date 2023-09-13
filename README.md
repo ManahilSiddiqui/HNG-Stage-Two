@@ -9,13 +9,13 @@ Please follow the instructions below:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/Benrobo/hngx-fe.git
+git clone git@github.com:ManahilSiddiqui/HNG-Stage-Two.git
 ```
 
 2. Change directory
 
 ```bash
-cd hngx-fe
+cd HNG-Stage-Two
 ```
 
 3. Install all dependencies
